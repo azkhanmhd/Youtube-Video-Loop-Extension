@@ -48,5 +48,20 @@ yt-loop-extension/
 
 ---
 
+## 🧩 Open Source & Customization
+
+This Project is *Completely Open-Source* 🧡  
+Feel free to:
+- 🧠 Study how it works  
+- 🛠️ Modify the code for your own use  
+- 🎨 Replace the icons or colors to match your style  
+- 🚀 And load it as your own Chrome extension  
+
+If you want to change the icons:
+1. Replace the icon png files
+2. But keep the same names for each icon
+
+---
+
 > Made With ❤️&☕ By Azk 💗
 
